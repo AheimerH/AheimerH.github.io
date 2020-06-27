@@ -8,3 +8,8 @@ Tinkerbell is small, smart and beautiful. And she's fun.
 * She can move soundless and 
 * she can see in the dark
 * she hears mouses in their houses
+
+And allway remember:
+
+> All you need is faith trust 
+> and a little bit of pixie dust.
